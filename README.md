@@ -1,3 +1,3 @@
 Python version: Python 3.8.1
 
-Install the dependences using the command pip install -r requirements.txt
+Install dependences using command pip install -r requirements.txt
