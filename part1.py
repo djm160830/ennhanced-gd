@@ -4,7 +4,7 @@
 # ASSIGNMENT 1
 
 import numpy as np
-from RawData import *
+from Preprocess-djm import *
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
