@@ -26,8 +26,13 @@ def preprocess(d):
 	# df['date'] = pd.to_datetime(df['date'], format='%Y/%m/%d')
 
 	# If you feel an attribute is not suitable or is not correlated with the outcome, you might want to get rid of it
-	# Remove non-predictive columns
-	df.drop(columns=['url', 'timedelta'], inplace=True)
+	# Remove noise instances
+	df = df[df['n_non_stop_words']!=1042]
+	df = df[df['n_tokens_content']!=0]
+
+	# Remove non-predictive/not useful columns
+	df.drop(columns=['url', 'timedelta', 'n_non_stop_words'], axis=1, inplace=True)
+
 
 	return df
 
