@@ -51,6 +51,11 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# My files
+testing_computer/
+4372*.pdf
+
+
 # Translations
 *.mo
 *.pot
