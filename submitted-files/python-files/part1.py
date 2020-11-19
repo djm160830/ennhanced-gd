@@ -1,8 +1,3 @@
-# NAME:			Darla Maneja (djm160830@utdallas.edu)
-# SECTION:		CS4371.001
-# DATE:			Sept. 7, 2020
-# ASSIGNMENT 1
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
