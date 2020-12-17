@@ -22,7 +22,7 @@ class LinearRegression:
 
 
 	"""
-	Calculates the hypothesis (h). Compact representation shown in class was the dot product of theta (parameters) and X components.
+	Calculates the hypothesis (h)
 	"""
 	def fit(self, x, y):
 		self.theta = np.random.rand(x.shape[1]).reshape(-1, 1) 
