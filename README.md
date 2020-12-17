@@ -1,6 +1,8 @@
 Python version: Python 3.8.1
 
-Install dependences: pip install -r requirements.txt
+# How to run
+## Install dependencies
+`pip install -r requirements.txt`
 
 Run part 1: python part1.py\
 Run part 2: python part2.py
