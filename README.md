@@ -11,7 +11,7 @@ part 1 expected output: prediction for target variable y\
 part 2 expected output: prediction for target variable y
 
 # Dataset Information
-(Via Machine Learning Repository)[https://archive.ics.uci.edu/ml/datasets/online+news+popularity] The dataset is described as the following: 
+[Via Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+news+popularity) The dataset is described as the following: 
 Number of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal field)
 
 Attribute Information:
