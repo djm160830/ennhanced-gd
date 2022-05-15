@@ -55,7 +55,7 @@ Number of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal fie
 35. **weekday_is_friday**: Was the article published on a Friday?*
 36. **weekday_is_saturday**: Was the article published on a Saturday?*
 37. **weekday_is_sunday**: Was the article published on a Sunday?*
-38. **is_weekend**: Was the article published on the weekend?
+38. **is_weekend**: Was the article published on the weekend?*
 39. **LDA_00**: Closeness to LDA topic 0
 40. **LDA_01**: Closeness to LDA topic 1
 41. **LDA_02**: Closeness to LDA topic 2
