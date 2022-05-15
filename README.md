@@ -48,13 +48,13 @@ Number of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal fie
 28. **self_reference_min_shares**: Min. shares of referenced articles in Mashable
 29. **self_reference_max_shares**: Max. shares of referenced articles in Mashable
 30. **self_reference_avg_sharess**: Avg. shares of referenced articles in Mashable
-31. **weekday_is_monday**: Was the article published on a Monday?
-32. **weekday_is_tuesday**: Was the article published on a Tuesday?
-33. **weekday_is_wednesday**: Was the article published on a Wednesday?
-34. **weekday_is_thursday**: Was the article published on a Thursday?
-35. **weekday_is_friday**: Was the article published on a Friday?
-36. **weekday_is_saturday**: Was the article published on a Saturday?
-37. **weekday_is_sunday**: Was the article published on a Sunday?
+31. **weekday_is_monday**: Was the article published on a Monday?*
+32. **weekday_is_tuesday**: Was the article published on a Tuesday?*
+33. **weekday_is_wednesday**: Was the article published on a Wednesday?*
+34. **weekday_is_thursday**: Was the article published on a Thursday?*
+35. **weekday_is_friday**: Was the article published on a Friday?*
+36. **weekday_is_saturday**: Was the article published on a Saturday?*
+37. **weekday_is_sunday**: Was the article published on a Sunday?*
 38. **is_weekend**: Was the article published on the weekend?
 39. **LDA_00**: Closeness to LDA topic 0
 40. **LDA_01**: Closeness to LDA topic 1
