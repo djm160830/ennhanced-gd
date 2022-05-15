@@ -17,13 +17,13 @@ The dataset is described as the following:
 Number of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal field)
 
 ### Attribute Information:
-0. **url**: URL of the article (non-predictive)
+0. **url**: URL of the article (non-predictive)*
 1. **timedelta**: Days between the article publication and the dataset acquisition (non-predictive)
 2. **n_tokens_title**: Number of words in the title
 3. **n_tokens_content**: Number of words in the content
-4. **n_unique_tokens**: Rate of unique words in the content
+4. **n_unique_tokens**: Rate of unique words in the content*
 5. **n_non_stop_words**: Rate of non-stop words in the content
-6. **n_non_stop_unique_tokens**: Rate of unique non-stop words in the content
+6. **n_non_stop_unique_tokens**: Rate of unique non-stop words in the content*
 7. **num_hrefs**: Number of links
 8. **num_self_hrefs**: Number of links to other articles published by Mashable
 9. **num_imgs**: Number of images
