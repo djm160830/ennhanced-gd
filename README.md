@@ -30,12 +30,12 @@ Number of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal fie
 10. **num_videos**: Number of videos
 11. **average_token_length**: Average length of the words in the content
 12. **num_keywords**: Number of keywords in the metadata
-13. **data_channel_is_lifestyle**: Is data channel 'Lifestyle'?
-14. **data_channel_is_entertainment**: Is data channel 'Entertainment'?
-15. **data_channel_is_bus**: Is data channel 'Business'?
-16. **data_channel_is_socmed**: Is data channel 'Social Media'?
-17. **data_channel_is_tech**: Is data channel 'Tech'?
-18. **data_channel_is_world**: Is data channel 'World'?
+13. **data_channel_is_lifestyle**: Is data channel 'Lifestyle'?*
+14. **data_channel_is_entertainment**: Is data channel 'Entertainment'?*
+15. **data_channel_is_bus**: Is data channel 'Business'?*
+16. **data_channel_is_socmed**: Is data channel 'Social Media'?*
+17. **data_channel_is_tech**: Is data channel 'Tech'?*
+18. **data_channel_is_world**: Is data channel 'World'?*
 19. **kw_min_min**: Worst keyword (min. shares)
 20. **kw_max_min**: Worst keyword (max. shares)
 21. **kw_avg_min**: Worst keyword (avg. shares)
